@@ -13,10 +13,10 @@ An interactive applet built with Streamlit to visualize the partial sums of a gi
 
 When entering custom formulas, use the following syntax for mathematical functions:
 
-- `sin(x)` for $\sin(x)$
-- `cos(x)` for $\cos(x)$
-- `tan(x)` for $\tan(x)$
-- `atan(x)` for $\arctan(x)$
-- `exp(x)` for $e^x$
-- `log(x)` for $\ln(x)$
-- `sqrt(x)` for $\sqrt{x}$
+- `sin(n)` for $\sin(n)$
+- `cos(n)` for $\cos(n)$
+- `tan(n)` for $\tan(n)$
+- `atan(n)` for $\arctan(n)$
+- `exp(n)` for $e^n$
+- `log(n)` for $\ln(n)$
+- `sqrt(n)` for $\sqrt{n}$
