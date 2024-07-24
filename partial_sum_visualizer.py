@@ -51,7 +51,7 @@ sums = partial_sums(num_terms, formula)
 # Plotting
 fig, ax = plt.subplots()
 ax.plot(range(1, num_terms + 1), sums, marker='o', linestyle='-', color='b')
-ax.set_title(f'Partial Sums of the Series: {formula}')
+ax.set_title(f'Partial Sums for the Series: $\\sum {formula}$')
 ax.set_xlabel('Number of Terms')
 ax.set_ylabel('Partial Sum')
 ax.grid(True)
