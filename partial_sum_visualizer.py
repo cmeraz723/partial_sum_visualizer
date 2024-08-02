@@ -33,7 +33,7 @@ series_option = st.radio(
 predefined_series = {
     "1/n": "1/n",
     "1/n^2": "1/n^2",
-    "(-1)^n / n": "(-1)**n / n"
+    "(-1)^n / n": "(-1)^n / n"
 }
 
 if series_option == "Predefined series":
